@@ -1,0 +1,39 @@
+.herosection{
+    width: 100%;
+    height: 100vh;
+    background-color: #101d3d;
+}
+.main-hero{
+    padding-top: 65px;
+}
+.Card-main{
+    padding-top: 0px;
+    text-align: center;
+    border: 1px solid gray;
+    width: 80%;
+    height: 80vh;
+    margin-left: 10rem;
+    
+}
+.blog-img{
+    width: 100%;
+    height: 50vh;
+}
+@media screen and (max-width:1230px) {
+    .Card-main{
+        margin-left: 5rem;
+    }
+}
+@media screen and (max-width:1100px){
+    .Card-main{
+        margin-left: 3rem;
+    }
+    .Card-main{
+        padding-top: 0px;
+        text-align: center;
+        border: 1px solid gray;
+        /* width: 50%; */
+        /* height: 20vh; */
+        
+    }
+}
