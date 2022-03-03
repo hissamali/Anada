@@ -19,10 +19,10 @@
     /* display: flex; */
     align-items: flex-end;
     justify-content: flex-end;
-    width: 35%; 
+    width: 40%; 
 }
 .home-image{
-    width: 120%;
+    width: 100%;
     padding: 10px 10px;
 }
 .para{
